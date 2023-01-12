@@ -1,0 +1,9 @@
+body {
+  background-color: #d5d4d4;
+  padding: 20px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
